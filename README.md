@@ -83,12 +83,12 @@ Using the [Expo CLI](https://expo.io/) command line utility, enter the following
 
 ### Integrating Rave React Native
 
-You can pull in react-native-rave into app with the steps below:
+You can pull in rave-react-native-updated into app with the steps below:
 
 - Change directory into your current project directory from your terminal and enter this command:
-  > npm install react-native-rave --save
+  > npm install rave-react-native-updated --save
   ### OR
-  > yarn add react-native-rave
+  > yarn add rave-react-native-updated
 
 <p align="center">
   <img src="https://res.cloudinary.com/flutterwavedeveloper/image/upload/v1540752764/rave-react-native/npm-install-rave.png" style="max-height: 150;" alt="npm-install-rave image">
@@ -120,7 +120,7 @@ You can pull in react-native-rave into app with the steps below:
 #### 1.  import Rave Component 
 
 ```javascript
-import Rave from 'react-native-rave';
+import Rave from 'rave-react-native-updated';
 ```
 
 #### 2. Set your success, failure and close methods
@@ -186,7 +186,7 @@ render() {
 #### 1.  import Rave Component 
 
 ```javascript
-import Rave from 'react-native-rave';
+import Rave from 'rave-react-native-updated';
 ```
 
 #### 2. Set your success and failure methods
@@ -248,7 +248,7 @@ render() {
 #### 1.  import Rave Component 
 
 ```javascript
-import Rave from 'react-native-rave';
+import Rave from 'rave-react-native-updated';
 ```
 
 #### 2. Set your success and failure methods
@@ -310,7 +310,7 @@ render() {
 #### 1.  import Rave Component 
 
 ```javascript
-import Rave from 'react-native-rave';
+import Rave from 'rave-react-native-updated';
 ```
 
 #### 2. Set your success and failure methods
@@ -371,7 +371,7 @@ render() {
 #### 1.  import Rave Component 
 
 ```javascript
-import Rave from 'react-native-rave';
+import Rave from 'rave-react-native-updated';
 ```
 
 #### 2. Set your success and failure methods
@@ -432,7 +432,7 @@ render() {
 #### 1.  import Rave Component 
 
 ```javascript
-import Rave from 'react-native-rave';
+import Rave from 'rave-react-native-updated';
 ```
 
 #### 2. Set your success and failure methods
@@ -609,7 +609,7 @@ export const fetchResponse = (transRef) => {
 
 ```node
 import React from 'react';
-import Rave from 'react-native-rave';
+import Rave from 'rave-react-native-updated';
 import { StyleSheet, Text, View } from 'react-native';
 import { fetchResponse } from './constants/api';
 

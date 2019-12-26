@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import { StyleSheet, View, Text, TouchableOpacity } from 'react-native';
 import { Icon } from 'react-native-elements'
-import Header from 'react-native-rave/src/components/Header';
+import Header from 'rave-react-native-updated/src/components/Header';
 
 export default class MpesaHeader extends Component {
     constructor(props) {

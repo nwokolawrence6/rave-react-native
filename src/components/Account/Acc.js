@@ -5,8 +5,8 @@ import { DatePicker } from "native-base";
 import { KeyboardAwareScrollView } from 'react-native-keyboard-aware-scroll-view';
 import dateFormat from 'dateformat';
 
-import Otp from 'react-native-rave/src/components/General/Otp';
-import VBVSecure from 'react-native-rave/src/components/General/vbvSecure';
+import Otp from 'rave-react-native-updated/src/components/General/Otp';
+import VBVSecure from 'rave-react-native-updated/src/components/General/vbvSecure';
 
 
 export default class AccModal extends Component {
