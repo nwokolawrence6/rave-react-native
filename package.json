@@ -1,7 +1,7 @@
 {
   "name": "react-native-rave-updated",
   "main": "Rave.js",
-  "version": "2.2.6",
+  "version": "2.2.8",
   "author": "Oluwole Adebiyi,Nwoko Lawrence, Tofunmi Kupoluyi, Yusuf Jolaoso, Anjola Bassey, Flutterwave Developers",
   "license": "MIT",
   "repository": {
@@ -15,11 +15,11 @@
     "md5": "^2.2.1",
     "native-base": "^2.8.1",
     "node-forge": "^0.7.5",
-    "prop-types": "^15.6.2",
+    "prop-types": "^15.7.2",
     "react": "16.9.0",
     "react-native": "0.61.2",
-    "react-native-elements": "^1.1.0",
-    "react-navigation": "^3.0.9",
-    "react-native-keyboard-aware-scroll-view": "^0.6.0"
+    "react-native-elements": "^1.2.7",
+    "react-native-keyboard-aware-scroll-view": "^0.9.1",
+    "react-navigation": "^4.0.10"
   }
 }
